@@ -4,7 +4,7 @@ bio:                'Minimal, one column jekyll theme.'
 description:        "Moon is a minimal, one column jekyll theme for your blog."
 reading_time:       true
 words_per_minute:   200
-logo:               'assets/img/logo.png'
+logo:               'https://twitter.com/rockarloz/profile_image?size=original'
 background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
@@ -39,8 +39,8 @@ disqus_shortname:   taylantatli
 #bing-verify:
 #email:
 twitter:            rockarloz
-facebook:           username
-github:             username
+facebook:           rockarloz
+github:             rockarloz
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
 #xing:              username
