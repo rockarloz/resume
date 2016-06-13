@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Fáctico"
-date:   2016-04-06
-excerpt: "Fáctico"
+title:  "Ligue Político"
+date:   2015
+excerpt: "Ligue Político"
 project: true
 tag:
 - jekyll 
@@ -14,22 +14,15 @@ comments: true
 ---
 
     
-<center><b>Fáctico</b>.</center>
+<center><b>Ligue Político</b>.</center>
      
- 
-Fáctico es la primera plataforma 100% móvil que te permite crear, leer y compartir las noticias más relevantes y las historias que a ti te interesan, en cualquier parte del mundo. 
+Conoce a los candidatos de tu ciudad, provincia y país, y descubre si les importas.
 
-Fáctico está diseñado para aprovechar al máximo la tecnología de los teléfonos inteligentes, de tal forma que puedas consumir y difundir la información que te importa de una manera ágil, sencilla y al momento. 
+Con Ligue Político podrás conocer quiénes son tus candidatos a puestos de elección popular, de acuerdo a tu ubicación geográfica, para exigirles que se comprometan con la transparencia y la rendición de cuentas. 
 
-Estamos creando la mayor comunidad de cronistas y reporteros urbanos de toda América Latina, que te cuentan las historias que otros medios no publican. 
+Ligue Político es una iniciativa ciudadana, abierta, colaborativa y regional, promovida y apoyada por: Factual, Hivos, Chequeado, Yo Quiero Saber, y Fáctico.
 
-¿Por qué descargarla?
-
-Uno. Porque Fáctico es tu mejor herramienta de publicación móvil, con la posibilidad de obtener recompensas si tu contenido es útil o el más votado. 
-
-Dos. Porque somos un megáfono a los temas que ti te importan y te afectan. Un equipo de reporteros profesionales puede dar seguimiento a las historias que publicas y amplificar tu voz, no importa dónde estés. 
-
-Tres. Porque de esto se trata la próxima revolución digital en los medios de comunicación. De explorar, innovar y experimentar con las tecnologías móviles.
+Si un candidato te atrae, desliza a la derecha. ¡Pero cuidado! Si no ha presentado su declaración patrimonial o jurada, ¡exígela!
 
 <iframe src="https://ghbtns.com/github-btn.html?user=TaylanTatli&repo=Moon&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe>    
       
@@ -45,9 +38,9 @@ That's all.
 ## Preview
 
 {% capture images %}
-	http://a2.mzstatic.com/eu/r30/Purple3/v4/76/57/b4/7657b465-50e0-8f8f-82cd-535a9cabd6c5/screen322x572.jpeg
-	http://a5.mzstatic.com/eu/r30/Purple3/v4/ca/23/7b/ca237bb2-0bfc-36cf-d550-53d269584b58/screen322x572.jpeg
-	http://a2.mzstatic.com/eu/r30/Purple3/v4/a0/a1/c9/a0a1c9f4-5435-642d-ed3b-8a480c27bba6/screen322x572.jpeg
+	http://a2.mzstatic.com/us/r30/Purple3/v4/d0/69/77/d06977bc-7fca-54ad-5687-66bd40f79b96/screen322x572.jpeg
+	http://a4.mzstatic.com/us/r30/Purple3/v4/1d/16/ec/1d16ecbf-aef5-2ad5-dcc1-85db65710ad7/screen322x572.jpeg
+	http://a1.mzstatic.com/us/r30/Purple3/v4/c7/0e/b9/c70eb912-6547-2a56-ea70-801dbdfa856b/screen322x572.jpeg
 {% endcapture %}
 {% include gallery images=images caption="Screenshots of Moon Theme" cols=3 %}
 
@@ -55,7 +48,7 @@ That's all.
 
   
       
-Download  [Fáctico](https://itunes.apple.com/es/app/factico/id932967054?mt=8) from AppStore.      
+Download  [Ligue Político](https://itunes.apple.com/mx/app/ligue-politico/id1036339757?mt=8) from AppStore.      
 
 
 ---
