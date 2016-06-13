@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Ligue Político"
+title:  "Infracción"
 date:   2015
-excerpt: "Ligue Político"
+excerpt: "Revisa si un oficial te puede infraccionar"
 project: true
 tag:
 - jekyll 
@@ -11,18 +11,23 @@ tag:
 - about
 - theme
 comments: true
+
 ---
 
     
-<center><b>Ligue Político</b>.</center>
+<center><b>Infracción</b>.</center>
      
-Conoce a los candidatos de tu ciudad, provincia y país, y descubre si les importas.
+n/Fracción es una app que te permite consultar, evaluar y conocer el proceso de infracción según la información oficial brindada por la Secretaría de Seguridad Pública de la Ciudad de México.
 
-Con Ligue Político podrás conocer quiénes son tus candidatos a puestos de elección popular, de acuerdo a tu ubicación geográfica, para exigirles que se comprometan con la transparencia y la rendición de cuentas. 
+En la Ciudad de México sólo los agentes de tránsito habilitados con un handheld pueden levantar infracciones.
 
-Ligue Político es una iniciativa ciudadana, abierta, colaborativa y regional, promovida y apoyada por: Factual, Hivos, Chequeado, Yo Quiero Saber, y Fáctico.
+* Si un agente de tránsito te detiene, puedes consultar su nombre o número de placa y saber si tiene la facultad para levantar una infracción.
 
-Si un candidato te atrae, desliza a la derecha. ¡Pero cuidado! Si no ha presentado su declaración patrimonial o jurada, ¡exígela!
+* Si cometiste una infracción evalúa el proceso que el agente siguió en base al artículo 39 del Reglamento de Tránsito Metropolitano.
+
+* Consulta el monto total y las sanciones que debes pagar por la infracción que cometiste.
+
+Infracción es una aplicación de CityDevs.
 
 <iframe src="https://ghbtns.com/github-btn.html?user=TaylanTatli&repo=Moon&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe>    
       
@@ -38,9 +43,9 @@ That's all.
 ## Preview
 
 {% capture images %}
-	http://a2.mzstatic.com/us/r30/Purple3/v4/d0/69/77/d06977bc-7fca-54ad-5687-66bd40f79b96/screen322x572.jpeg
-	http://a4.mzstatic.com/us/r30/Purple3/v4/1d/16/ec/1d16ecbf-aef5-2ad5-dcc1-85db65710ad7/screen322x572.jpeg
-	http://a1.mzstatic.com/us/r30/Purple3/v4/c7/0e/b9/c70eb912-6547-2a56-ea70-801dbdfa856b/screen322x572.jpeg
+	http://a1.mzstatic.com/us/r30/Purple1/v4/73/0e/53/730e53f6-381e-2100-21c1-3e6189f9d1de/screen322x572.jpeg
+	http://a4.mzstatic.com/us/r30/Purple7/v4/b4/7c/eb/b47ceb9b-9bbb-f799-11de-43e353458c70/screen322x572.jpeg
+	http://a1.mzstatic.com/us/r30/Purple5/v4/d5/02/14/d502146b-c136-f12c-1c59-380ca1a71a1d/screen322x572.jpeg
 {% endcapture %}
 {% include gallery images=images caption="Screenshots of Moon Theme" cols=3 %}
 
@@ -48,7 +53,7 @@ That's all.
 
   
       
-Download  [Ligue Político](https://itunes.apple.com/mx/app/ligue-politico/id1036339757?mt=8) from AppStore.      
+Download  [Infracción](https://itunes.apple.com/ai/app/infraccion/id1029765142?mt=8) from AppStore.      
 
 
 ---
