@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "CityDevs"
-date:   2016-04-06
+date:   2016-06-13
 excerpt: "Minimal, one column Jekyll theme for your blog."
 project: true
 tag:
