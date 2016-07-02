@@ -29,6 +29,7 @@ En la Ciudad de México sólo los agentes de tránsito habilitados con un handhe
 
 Infracción es una aplicación de CityDevs.
 
+---
 ## Preview
 
 {% capture images %}
@@ -38,10 +39,8 @@ Infracción es una aplicación de CityDevs.
 {% endcapture %}
 ---
 
-  
-      
+     
 Download  [Infracción](https://itunes.apple.com/ai/app/infraccion/id1029765142?mt=8) from AppStore.      
-
 
 ---
 
