@@ -10,6 +10,8 @@ tag:
 - blog
 - about
 - theme
+- iOS
+
 comments: true
 
 ---
@@ -17,7 +19,7 @@ comments: true
     
 <center><b>Infracción</b>.</center>
      
-in/Fracción es una app que te permite consultar, evaluar y conocer el proceso de infracción según la información oficial brindada por la Secretaría de Seguridad Pública de la Ciudad de México.
+In/Fracción es una app que te permite consultar, evaluar y conocer el proceso de infracción según la información oficial brindada por la Secretaría de Seguridad Pública de la Ciudad de México.
 
 En la Ciudad de México sólo los agentes de tránsito habilitados con un handheld pueden levantar infracciones.
 
@@ -28,9 +30,6 @@ En la Ciudad de México sólo los agentes de tránsito habilitados con un handhe
 * Consulta el monto total y las sanciones que debes pagar por la infracción que cometiste.
 
 Infracción es una aplicación de CityDevs.
-
-<iframe src="https://ghbtns.com/github-btn.html?user=TaylanTatli&repo=Moon&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe>    
-      
 
 ## Preview
 
@@ -50,25 +49,6 @@ Download  [Infracción](https://itunes.apple.com/ai/app/infraccion/id1029765142?
 
 ---
 
-### Navigation Links
+<iframe width="560" height="315" src="//www.youtube.com/embed/unHpsaKkPKk" frameborder="0"> </iframe>
 
-To set what links appear in the top navigation edit `_data/navigation.yml`. Use the following format to set the URL and title for as many links as you'd like. *External links will open in a new window.*
 
-{% highlight yaml %}
-- title: Home
-  url: /
-
-- title: Blog
-  url: /blog/
-
-- title: Projects
-  url: /projects/
-
-- title: About
-  url: /about/
-
-- title: Moon
-  url: http://taylantatli.me/Moon
-{% endhighlight %}
-
----
