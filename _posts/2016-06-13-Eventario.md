@@ -1,45 +1,45 @@
 ---
 layout: post
-title:  "Ligue Político"
+title:  "Eventario"
 date:   2016-06-13
-excerpt: "Ligue Político"
+excerpt: "Eventario"
 project: true
 tag:
-- jekyll 
-- moon
-- blog
-- about
-- theme
+- iOS 
+- ObjC
+- CityDevs
+- app
+- LabCDMX
 comments: true
 
 ---
 
     
-<center><b>Ligue Político</b>.</center>
+<center><b>Eventario</b>.</center>
      
-Conoce a los candidatos de tu ciudad, provincia y país, y descubre si les importas.
-
-Con Ligue Político podrás conocer quiénes son tus candidatos a puestos de elección popular, de acuerdo a tu ubicación geográfica, para exigirles que se comprometan con la transparencia y la rendición de cuentas. 
-
-Ligue Político es una iniciativa ciudadana, abierta, colaborativa y regional, promovida y apoyada por: Factual, Hivos, Chequeado, Yo Quiero Saber, y Fáctico.
-
-Si un candidato te atrae, desliza a la derecha. ¡Pero cuidado! Si no ha presentado su declaración patrimonial o jurada, ¡exígela!
+Con Eventario descubre los eventos que tu ciudad ofrece, puedes encontrar eventos cercanos a ti, o buscar en determinadas zonas de la ciudad. 
+Ciudades:
+-Guadalajara
+-Puebla
+-Hidalgo 
+-Toluca
+-Tuxtla Gutierrez 
+-Ciudad de México
 
 
 ## Preview
 
 {% capture images %}
-	http://a2.mzstatic.com/us/r30/Purple3/v4/d0/69/77/d06977bc-7fca-54ad-5687-66bd40f79b96/screen322x572.jpeg
-	http://a4.mzstatic.com/us/r30/Purple3/v4/1d/16/ec/1d16ecbf-aef5-2ad5-dcc1-85db65710ad7/screen322x572.jpeg
-	http://a1.mzstatic.com/us/r30/Purple3/v4/c7/0e/b9/c70eb912-6547-2a56-ea70-801dbdfa856b/screen322x572.jpeg
+	http://a2.mzstatic.com/us/r30/Purple3/v4/43/02/ea/4302ea90-9b4d-80c7-4f7c-acf465cb395d/screen322x572.jpeg
+	http://a3.mzstatic.com/us/r30/Purple1/v4/0f/a1/71/0fa171ba-f747-2e64-7a0e-fa9a41ae323f/screen322x572.jpegg
+	http://a5.mzstatic.com/us/r30/Purple3/v4/6f/52/1a/6f521a9e-543a-02c0-3b58-d23c8d86738f/screen322x572.jpeg
 {% endcapture %}
-{% include gallery images=images caption="Screenshots of Moon Theme" cols=3 %}
 
 ---
 
   
       
-Download  [Ligue Político](https://itunes.apple.com/mx/app/ligue-politico/id1036339757?mt=8) from AppStore.      
+Download  [Eventario](https://itunes.apple.com/bo/app/eventario/id876609208?mt=8) from AppStore.      
 
 
 ---

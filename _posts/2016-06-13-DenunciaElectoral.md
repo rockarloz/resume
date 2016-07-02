@@ -1,45 +1,41 @@
 ---
 layout: post
-title:  "Ligue Político"
+title:  "Denuncia Electoral"
 date:   2016-06-13
-excerpt: "Ligue Político"
+excerpt: "Denuncia Electoral"
 project: true
 tag:
-- jekyll 
-- moon
-- blog
-- about
-- theme
+- CityDevs 
+- ObjC
+- app
+- iOS
+
 comments: true
 
 ---
 
     
-<center><b>Ligue Político</b>.</center>
+<center><b>Denuncia Electoral</b>.</center>
      
-Conoce a los candidatos de tu ciudad, provincia y país, y descubre si les importas.
-
-Con Ligue Político podrás conocer quiénes son tus candidatos a puestos de elección popular, de acuerdo a tu ubicación geográfica, para exigirles que se comprometan con la transparencia y la rendición de cuentas. 
-
-Ligue Político es una iniciativa ciudadana, abierta, colaborativa y regional, promovida y apoyada por: Factual, Hivos, Chequeado, Yo Quiero Saber, y Fáctico.
-
-Si un candidato te atrae, desliza a la derecha. ¡Pero cuidado! Si no ha presentado su declaración patrimonial o jurada, ¡exígela!
+La App Denuncia Ciudadana permite a cualquier votante en el país enviar, de manera confidencial, información sobre delitos electorales cometidos por candidatos o partidos, funcionarios electorales o ciudadan@s en los lugares de votación o en sus alrededores.
+Toda la información facilitada por quien desee denunciar faltas o delitos en el proceso electoral será almacenada en una base de datos segura, abierta al público de manera permanente y será puesta a disposición de toda persona, institución u organismo que desee integrarlas como pruebas, indicios o evidencias para formalizar cualquier impugnación de alguna de las muchas elecciones que se llevarán a cabo en el país.
+La intención de esta App es poner en manos de la gente la supervisión de este proceso y las evidencias para demostrar cualquier irregularidad que pudiera, incluso, ser causal de nulidad de una elección. 
+Mientras mayor número de denuncias reales, información, fotos, podamos almacenar, mayores posibilidades tendremos de transparentar irregularidades, sin importar partido o región en donde sucedan.
 
 
 ## Preview
 
 {% capture images %}
-	http://a2.mzstatic.com/us/r30/Purple3/v4/d0/69/77/d06977bc-7fca-54ad-5687-66bd40f79b96/screen322x572.jpeg
-	http://a4.mzstatic.com/us/r30/Purple3/v4/1d/16/ec/1d16ecbf-aef5-2ad5-dcc1-85db65710ad7/screen322x572.jpeg
-	http://a1.mzstatic.com/us/r30/Purple3/v4/c7/0e/b9/c70eb912-6547-2a56-ea70-801dbdfa856b/screen322x572.jpeg
+	http://a3.mzstatic.com/us/r30/Purple1/v4/26/36/78/263678e1-d235-0444-8721-d6e619ca69f1/screen322x572.jpeg
+	http://a2.mzstatic.com/us/r30/Purple7/v4/d9/db/f7/d9dbf7a3-f41d-e720-3b86-5bcfb7ff0e19/screen322x572.jpeg
+	http://a2.mzstatic.com/us/r30/Purple7/v4/fe/4a/24/fe4a24a8-9468-9996-bc7d-f0a7297b4886/screen322x572.jpeg
 {% endcapture %}
-{% include gallery images=images caption="Screenshots of Moon Theme" cols=3 %}
 
 ---
 
   
       
-Download  [Ligue Político](https://itunes.apple.com/mx/app/ligue-politico/id1036339757?mt=8) from AppStore.      
+Download  [Denuncia Electoral](https://itunes.apple.com/bo/app/denuncia-electoral/id998406354?mt=8) from AppStore.      
 
 
 ---

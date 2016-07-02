@@ -26,8 +26,6 @@ Digital Pulse es una aplicación que empodera a figuras y organizacipones públi
 	http://a4.mzstatic.com/us/r30/Purple30/v4/8d/12/1a/8d121a35-4f7e-b7da-d979-32fd39b66f22/screen322x572.jpeg
 	http://a1.mzstatic.com/us/r30/Purple30/v4/a5/94/bb/a594bb9d-3322-45bb-9963-a68eb54c7dde/screen322x572.jpeg
 {% endcapture %}
-{% include gallery images=images caption="Screenshots of Moon Theme" cols=3 %}
-
 ---
 
   

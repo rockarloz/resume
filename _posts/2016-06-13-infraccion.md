@@ -5,11 +5,9 @@ date:   2016-06-13
 excerpt: "Revisa si un oficial te puede infraccionar"
 project: true
 tag:
-- jekyll 
-- moon
-- blog
-- about
-- theme
+- ObjC 
+- CDMX
+- app
 - iOS
 
 comments: true
@@ -38,8 +36,6 @@ Infracción es una aplicación de CityDevs.
 	http://a4.mzstatic.com/us/r30/Purple7/v4/b4/7c/eb/b47ceb9b-9bbb-f799-11de-43e353458c70/screen322x572.jpeg
 	http://a1.mzstatic.com/us/r30/Purple5/v4/d5/02/14/d502146b-c136-f12c-1c59-380ca1a71a1d/screen322x572.jpeg
 {% endcapture %}
-{% include gallery images=images caption="Screenshots of Moon Theme" cols=3 %}
-
 ---
 
   
