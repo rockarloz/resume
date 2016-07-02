@@ -34,7 +34,7 @@ Ciudades:
 	http://a3.mzstatic.com/us/r30/Purple1/v4/0f/a1/71/0fa171ba-f747-2e64-7a0e-fa9a41ae323f/screen322x572.jpegg
 	http://a5.mzstatic.com/us/r30/Purple3/v4/6f/52/1a/6f521a9e-543a-02c0-3b58-d23c8d86738f/screen322x572.jpeg
 {% endcapture %}
-
+{% include gallery images=images caption="Screenshots of Moon Theme" cols=3 %}
 ---
 
   

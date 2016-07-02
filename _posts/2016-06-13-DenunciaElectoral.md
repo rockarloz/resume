@@ -30,7 +30,7 @@ Mientras mayor número de denuncias reales, información, fotos, podamos almacen
 	http://a2.mzstatic.com/us/r30/Purple7/v4/d9/db/f7/d9dbf7a3-f41d-e720-3b86-5bcfb7ff0e19/screen322x572.jpeg
 	http://a2.mzstatic.com/us/r30/Purple7/v4/fe/4a/24/fe4a24a8-9468-9996-bc7d-f0a7297b4886/screen322x572.jpeg
 {% endcapture %}
-
+{% include gallery images=images caption="Screenshots of Moon Theme" cols=3 %}
 ---
 
   

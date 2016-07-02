@@ -36,6 +36,7 @@ La aplicación te permitirá visualizar en un mapa de calor en qué entidades fe
 	http://a1.mzstatic.com/us/r30/Purple1/v4/3a/b2/d6/3ab2d6e3-a5c8-96d4-fc91-c03eff707f24/screen322x572.jpeg
 	http://a2.mzstatic.com/us/r30/Purple1/v4/fe/57/f5/fe57f586-35c5-091b-5981-5effaab793d3/screen322x572.jpeg
 {% endcapture %}
+{% include gallery images=images caption="Screenshots of Moon Theme" cols=3 %}
 ---
 
   
