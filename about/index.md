@@ -9,7 +9,7 @@ date: 2016-03-21
 
 ## Skills
 * Swift
-* Obcjective C
+* Objective C
 * Ruby on Rails
 * Php
 * CSS, SCSS
