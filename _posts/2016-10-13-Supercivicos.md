@@ -2,7 +2,7 @@
 layout: post
 title:  "Supercívicos"
 date:   2016-10-01
-excerpt: "Revisa si un oficial te puede infraccionar"
+excerpt: "Aplicación Oficial de los Supercívicos"
 project: true
 tag:
 - ObjC 
@@ -33,7 +33,7 @@ Supercívicos es una aplicación de Fáctico.
 ---
 
      
-Download  [Infracción](https://itunes.apple.com/es/app/supercivicos/id1154772570?mt=8) from AppStore.      
+Download  [Supercívicos](https://itunes.apple.com/es/app/supercivicos/id1154772570?mt=8) from AppStore.      
 
 ---
 
