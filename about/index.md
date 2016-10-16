@@ -26,7 +26,7 @@ date: 2016-03-21
 ## Jobs
 * Co-Founder CTO [Fáctico](www.facticoapp.com) September 2014 - Current
 * iOS & RoR Dev [CityDevs](www.citydevs.mx) Semptember 2014 - Current
-* FullStack Developer [Cívica Digital](www.civica.digital) 2015 - Current
+* FullStack Developer [Cívica Digital](www.civica.digital) October 2015 - September 2016
 * Developer LionTeamSoft January 2011 - January 2015
 * Civic Hacker [Laboratorio Para la Ciudad](www.labcd.mx) Semptember 2013 - June 2014
 * iOS Developer Suprema Corte de Justicia April 2013 - September 2013
