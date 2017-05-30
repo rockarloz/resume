@@ -18,7 +18,7 @@ Fáctico CoFounder</center>
 * Php
 * CSS, SCSS
 * JavaScript, CoffeeScript
-* Html, erb, haml, html5
+* Html,Slim, erb, haml, html5
 * JQuery
 * Git,GitHub
 * Mysql , sqlite , PostgreSQL
@@ -26,8 +26,12 @@ Fáctico CoFounder</center>
 * CivicTech
 * Entrepreneur
 * OpenData
+* Wordpress, Drupal 
+* Aws, softlayer, azure
+
 
 ## Jobs
+* FullStack Developer [wingu](www.winguweb.org) January 2017 - Current
 * Co-Founder CTO [Fáctico](www.facticoapp.com) September 2014 - Current
 * iOS & RoR Dev [CityDevs](www.citydevs.mx) Semptember 2014 - Current
 * FullStack Developer [Cívica Digital](www.civica.digital) October 2015 - September 2016
