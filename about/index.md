@@ -5,7 +5,11 @@ tags: [about, rockarloz, carlos, mexico]
 date: 2016-03-21
 ---
     
-<center>I was born in Chiapas, Mexico. System Engineering , 25 years old. I Love build iOS apps since 2010, now I'm Ruby on rails developer. I think I can help my city with my knowledge about tech building new apps for help the citizens life. I´m Entrepreneur, I´m Fáctico Co-Founder and love join technology with journalist </center>
+<center>Software artist .
+Full Stack, iOS & RoR developer.
+I write code for change citizens lives.
+OpenData  ambassador.
+Fáctico CoFounder</center>
 
 ## Skills
 * Swift
